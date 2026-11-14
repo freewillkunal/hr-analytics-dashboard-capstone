@@ -2,7 +2,7 @@
 
 Capstone project for **Data Handling, Visualization & Feature Engineering (AML001)**.
 
-**Name:** Kunal Pal | **Roll No:** 2601201042 | BCA (H) AI & DS | Section B
+**Name:** Kunal Pal | **Roll No:** 2601201042 | **BCA (H) AI & DS** | **Section B**
 
 ## Problem
 
