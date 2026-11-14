@@ -2,6 +2,8 @@
 
 Capstone project for **Data Handling, Visualization & Feature Engineering (AML001)**.
 
+**Name:** Kunal Pal | **Roll No:** 2601201042 | BCA (H) AI & DS | Section B
+
 ## Problem
 
 An HR team wants to understand how **salary, experience and performance** relate across departments. This project builds an interactive Plotly dashboard that answers that question and states each finding in the chart titles.
